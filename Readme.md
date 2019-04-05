@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DXRichEditHitTest/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXRichEditHitTest/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXRichEditHitTest/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXRichEditHitTest/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXRichEditHitTest/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXRichEditHitTest/MainWindow.xaml.vb))
 <!-- default file list end -->
 #  How to: show a ToolTip containing information about the document layout element located under the cursor position
 
